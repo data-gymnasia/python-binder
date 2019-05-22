@@ -1,0 +1,10 @@
+name: simple-python-stack
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - scipy
+  - sympy

@@ -10,5 +10,6 @@ dependencies:
   - scipy
   - sympy
   - plotly
+  - pip
   - pip:
     - pydataset

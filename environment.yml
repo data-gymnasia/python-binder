@@ -1,6 +1,7 @@
 name: simple-python-stack
 channels:
   - conda-forge
+  - plotly
 dependencies:
   - numpy
   - matplotlib
@@ -8,3 +9,6 @@ dependencies:
   - pandas
   - scipy
   - sympy
+  - plotly
+  - pip:
+    - pydataset

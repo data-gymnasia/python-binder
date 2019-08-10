@@ -10,6 +10,9 @@ dependencies:
   - scipy
   - sympy
   - plotly
+  - plotly-orca
+  - psutil
+  - requests
   - pip
   - pip:
     - pydataset

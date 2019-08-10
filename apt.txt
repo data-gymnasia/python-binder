@@ -1,1 +1,3 @@
+google-chrome-stable
 xvfb
+poppler-utils

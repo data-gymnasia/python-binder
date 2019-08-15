@@ -11,7 +11,7 @@ dependencies:
   - sympy
   - plotly
   - plotly-orca
-  - sklearn
+  - scikit-learn
   - psutil
   - requests
   - pip

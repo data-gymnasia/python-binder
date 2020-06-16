@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - scipy
   - sympy
+  - numba
   - plotly
   - plotly-orca
   - scikit-learn
